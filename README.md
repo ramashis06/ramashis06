@@ -37,7 +37,7 @@ Hello! I'm an entry-level QA enthusiast, eager to learn and grow in the field of
 
 *   🔭 I'm currently working on [**Metal Plus Limited**](.com)
 *   👯 I'm looking to collaborate on **GitHub** – let's build something amazing together!
-*   🤝 I'm looking for help with **Automation** - always open to learning from experienced folks!
+*   🤝 I'm looking for help with **Automation Testing** - always open to learning from experienced folks!
 
 </div>
 
@@ -74,16 +74,23 @@ Hello! I'm an entry-level QA enthusiast, eager to learn and grow in the field of
 
 ## 🎓 Education
 
-| Institution                         | Degree                        | Duration          |
+| Institution                         | Degree                        | GPA/CGPA         |
 | ----------------------------------- | ----------------------------- | ----------------- |
-| Dhaka International University      | Bachelor of Science (B.Sc.)   | 2020-01 - 2023-09 |
-| Ulipur Science & Technology Institute | Diploma                       | 2013-04 - 2017-12 |
+| Dhaka International University      | Bachelor of Science (B.Sc.)   | CGPA: 3.01 out of (4.00) |
+| Ulipur Science & Technology Institute | Diploma                     | CGPA: 2.86 out of (4.00) |
+| Narikel bari pondit mohir uddin high school | SSC                   | GPA: 3.56 out of (5.00) |
+
 
 ### Bachelor of Science (B.Sc.) in Computer Science & Engineering
 *Dhaka International University*
 
+
 ### Diploma in Computer Science
 *Ulipur Science & Technology Institute*
+
+
+### Secondary School Certificate (SSC) in science
+*Narikel bari pondit mohir uddin high school*
 
 ## 💼 Internships
 
