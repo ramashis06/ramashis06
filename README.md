@@ -155,12 +155,10 @@ During my internship at Skill Jobs, I gained experience in:
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=ramashis06&show_icons=true&locale=en" alt="ramashis06" /></p>
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=ramashis06&" alt="ramashis06" /></p>
+![](https://github-readme-streak-stats.herokuapp.com/?user=alamimran613&theme=dark&hide_border=false)
 
 </div>
 
-
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/https://www.twitter.com/ramashis06?style=social)]([https://twitter.com/https://www.twitter.com/ramashis06](https://x.com/RAMASHIS06))
 
 
 
