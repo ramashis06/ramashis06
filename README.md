@@ -57,10 +57,8 @@ Hello! I'm an entry-level QA enthusiast, eager to learn and grow in the field of
 
 | Company             | Position | Duration          |
 | ------------------- | -------- | ----------------- |
-| Metal Plus Limited  | NOC      | 2022-08 - Present |
+| Metal Plus Limited  | Network Operations Center (NOC) Engineer      | 2022-08 - Present |
 
-### NOC at Metal Plus Limited
-*DHAKA*
 
 ## 🚀 Projects
 
