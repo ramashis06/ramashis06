@@ -35,7 +35,7 @@ Hello! I'm an entry-level QA enthusiast, eager to learn and grow in the field of
 
 <div align="left">
 
-*   🔭 I'm currently working on [**Metal Plus Limited**](.com)
+*   🔭 I'm currently working on [**Metal Plus Limited**](https://metal-bd.com/)
 *   👯 I'm looking to collaborate on **GitHub** – let's build something amazing together!
 *   🤝 I'm looking for help with **Automation Testing** - always open to learning from experienced folks!
 
@@ -104,7 +104,7 @@ During my internship at Skill Jobs, I gained experience in:
 
 *   📫 How to reach me: **ramashis06@gmail.com**
 *   👨‍💻 All of my projects are available at [Github](https://github.com/ramashis06)
-*   📄 Know about my experiences [Resume](https://drive.google.com/drive/folders/1h3y6aUvJ0DAsrlNnt_z-psiFiGeE6PZh?usp=sharing)
+*   📄 Know about my experiences [Resume/CV](https://drive.google.com/drive/folders/1h3y6aUvJ0DAsrlNnt_z-psiFiGeE6PZh?usp=sharing)
 
 </div>
 
