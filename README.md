@@ -148,11 +148,13 @@ During my internship at Skill Jobs, I gained experience in:
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=ramashis06&label=Profile%20Visitors&color=blueviolet&style=flat-square)
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ramashis06&show_icons=true&locale=en&layout=compact" alt="ramashis06" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ramashis06&show_icons=true&locale=en" alt="ramashis06" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ramashis06&" alt="ramashis06" /></p>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramashis06&layout=compact&theme=default&langs_count=10)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ramashis06&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 
 <!-- LeetCode Stats Card: LeetCode username required -->
 
