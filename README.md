@@ -151,11 +151,11 @@ During my internship at Skill Jobs, I gained experience in:
 <div align="Left">
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ramashis06&show_icons=true&locale=en&layout=compact" alt="ramashis06" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ramashis06&show_icons=true&locale=en" alt="ramashis06" /></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=ramashis06&show_icons=true&locale=en" alt="ramashis06" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ramashis06&" alt="ramashis06" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=ramashis06&" alt="ramashis06" /></p>
 
-
+</div>
 
 <!-- LeetCode Stats Card: LeetCode username required -->
 
