@@ -148,7 +148,8 @@ During my internship at Skill Jobs, I gained experience in:
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=ramashis06&label=Profile%20Visitors&color=blueviolet&style=flat-square)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ramashis06&show_icons=true&locale=en&layout=compact" alt="ramashis06" /></p>
+<div align="Left">
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ramashis06&show_icons=true&locale=en&layout=compact" alt="ramashis06" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ramashis06&show_icons=true&locale=en" alt="ramashis06" /></p>
 
