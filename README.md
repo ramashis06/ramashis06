@@ -162,7 +162,7 @@ During my internship at Skill Jobs, I gained experience in:
   
 ### 🔝 Top Contributed Repositories
   
-![Top Contributed Repos](https://github-contributor-stats.vercel.app/api?username=ramashis06&limit=10&combine_all_yearly_contributions=true)
+![ramashis06's Top Repos](https://git-hub-stats-card-generator.vercel.app/api/svg?username=ramashis06&type=top-repos&theme=default)
 
 </div>
 
