@@ -163,6 +163,14 @@ During my internship at Skill Jobs, I gained experience in:
 <!-- It uses a GitHub Action to fetch and display recent posts. -->
 <!-- View https://github.com/gautamkrishnar/blog-post-workflow for setup. -->
 <!-- DEVTO_BLOG:END -->
+
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+
 **Requires GitHub Action setup.** See [blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow).
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ramashis06&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
