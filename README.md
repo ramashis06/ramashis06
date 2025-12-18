@@ -147,6 +147,7 @@ During my internship at Skill Jobs, I gained experience in:
 <div align="center">
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=ramashis06&label=Profile%20Visitors&color=blueviolet&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=ramashis06&color=brightgreen&style=flat-square&label=Profile+Views)
 
 <div align="Left">
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ramashis06&show_icons=true&locale=en&layout=compact" alt="ramashis06" /></p>
