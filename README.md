@@ -156,9 +156,6 @@ During my internship at Skill Jobs, I gained experience in:
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=ramashis06&" alt="ramashis06" /></p>
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=ramashis06&"theme=dark&hide_border=false alt="ramashis06" /></p>
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=ramashis06&theme=dark&hide_border=false)
 
 </div>
 # 📊 GitHub Stats:
