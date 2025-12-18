@@ -162,11 +162,7 @@ During my internship at Skill Jobs, I gained experience in:
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/https://www.twitter.com/ramashis06?style=social)]([https://twitter.com/https://www.twitter.com/ramashis06](https://x.com/RAMASHIS06))
 
-<!-- DEVTO_BLOG:START -->
-<!-- Repositories that create this section need to replace the URL with their own feed URL. -->
-<!-- It uses a GitHub Action to fetch and display recent posts. -->
-<!-- View https://github.com/gautamkrishnar/blog-post-workflow for setup. -->
-<!-- DEVTO_BLOG:END -->
+
 
 <!-- Snake Game Repo View -->
 
@@ -175,11 +171,7 @@ During my internship at Skill Jobs, I gained experience in:
 </div>
 
 
-**Requires GitHub Action setup.** See [blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow).
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ramashis06&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
-
-</div>
 
 ---
 
@@ -189,6 +181,5 @@ During my internship at Skill Jobs, I gained experience in:
 
 **Thank you for visiting my profile! 😊**
 
-![Profile Views](https://komarev.com/ghpvc/?username=ramashis06&color=brightgreen&style=flat-square&label=Profile+Views)
 
 </div>
