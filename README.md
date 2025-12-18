@@ -55,9 +55,9 @@ Hello! I'm an entry-level QA enthusiast, eager to learn and grow in the field of
 
 ## 💼 Work Experience
 
-| Company             | Position | Duration          |
-| ------------------- | -------- | ----------------- |
-| Metal Plus Limited  | Network Operations Center (NOC) Engineer      | 2022-08 - Present |
+| Company                   | Position                                      | Duration          |
+| -------------------       | --------                                      | ----------------- |
+| Metal Plus Limited        | Network Operations Center (NOC) Engineer      | 2022-08 - Present |
 
 
 
@@ -103,8 +103,8 @@ During my internship at Skill Jobs, I gained experience in:
 <div align="left">
 
 *   📫 How to reach me: **ramashis06@gmail.com**
-*   👨‍💻 All of my projects are available at [gg.com](gg.com)
-*   📄 Know about my experiences [resume.com](resume.com)
+*   👨‍💻 All of my projects are available at [Github](https://github.com/ramashis06)
+*   📄 Know about my experiences [Resume](https://drive.google.com/drive/folders/1h3y6aUvJ0DAsrlNnt_z-psiFiGeE6PZh?usp=sharing)
 
 </div>
 
