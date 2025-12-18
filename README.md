@@ -158,7 +158,7 @@ During my internship at Skill Jobs, I gained experience in:
 
 </div>
 
-<!-- LeetCode Stats Card: LeetCode username required -->
+
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/https://www.twitter.com/ramashis06?style=social)]([https://twitter.com/https://www.twitter.com/ramashis06](https://x.com/RAMASHIS06))
 
